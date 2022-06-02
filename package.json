@@ -10,7 +10,8 @@
     "delete": "node ./src/fs/delete.js",
     "list": "node ./src/fs/list.js",
     "read": "node ./src/fs/read.js",
-    "modules": "node ./src/modules/cjsToEsm.mjs"
+    "modules": "node ./src/modules/cjsToEsm.mjs",
+    "calcHash": "node ./src/hash/calcHash.js"
   },
   "repository": {
     "type": "git",
