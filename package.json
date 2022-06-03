@@ -11,7 +11,10 @@
     "list": "node ./src/fs/list.js",
     "read": "node ./src/fs/read.js",
     "modules": "node ./src/modules/cjsToEsm.mjs",
-    "calcHash": "node ./src/hash/calcHash.js"
+    "calcHash": "node ./src/hash/calcHash.js",
+    "streamRead": "node ./src/streams/read.js",
+    "streamWrite": "node ./src/streams/write.js",
+    "streamTransform": "node ./src/streams/transform.js"
   },
   "repository": {
     "type": "git",
